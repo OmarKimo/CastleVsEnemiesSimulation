@@ -1,6 +1,8 @@
 # CastleVsEnemiesSimulation
 
-## A simulation game between Castle towers and enemies
+## My first project in college using *Procedural Programming Paradigm* with *C++*
+
+## It's a simulation game between Castle towers and enemies
 
 ### To know how the program works you can read the [Requirements](https://github.com/OmarKimo/CastleVsEnemiesSimulation/tree/master/Project%20Requirements.pdf) file
 
